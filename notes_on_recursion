@@ -1,0 +1,10 @@
+CONDITIONS FOR A VIABLE RECURSION ALGORITHM
+- it has to thin out!.
+  every function call has to deal with a smaller bit of the problem than the last time.
+
+- it MUST have a base call. 
+  it must have this requirement not to run out of stack.
+  this is the smallest bit of the problem
+
+- There is need for a RECURSIVE STEP.
+
